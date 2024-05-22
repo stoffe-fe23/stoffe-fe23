@@ -1,6 +1,15 @@
 # Kristoffer Bengtsson assignments
 Studying Frontend Development at Grit Academy (FE23)
 
+
+## Grit Academy API - Final assignment, Backend Databases course
+[View repository](https://github.com/stoffe-fe23/Fe23-BackendDb_NodeJS_REST-kristoffer-bengtsson)
+- __API managing data about students and courses.__
+- Node.JS backend serving API and admin pages.
+- MySQL database keeping the data.
+- Admin pages for managing the API content. 
+
+
 ## STT Forum - Final assignment, Javascript 2 course
 [View repository](https://github.com/stoffe-fe23/fe23-js2-slutprojekt-sttforum)
 - __Simple threaded hierarchical forum system.__
